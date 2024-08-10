@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+pillow
+numpy
+pydantic
+boto3
+crewai
+chromadb
+cohere
+tokenizers
